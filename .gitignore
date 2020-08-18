@@ -1,5 +1,6 @@
 .DS_Store
 .env
+.env_file
 .flaskenv
 *.pyc
 *.pyo
@@ -26,3 +27,6 @@ htmlcov/
 # Direnv
 .envrc
 .direnv
+
+# Policy files
+Policy/
